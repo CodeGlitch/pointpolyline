@@ -1,5 +1,6 @@
 # pointpolyline
 
+Flutter Project, using google_maps_flutter.
 Using point (marker) and polylines
 
 ## Getting Started
