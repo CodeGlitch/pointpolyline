@@ -5,7 +5,7 @@ Using point (marker) and polylines
 
 ## Getting Started
 
-Replace <API_KEY> with your own key
+Replace <APIKEY> with your own key
 
 ##License
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
